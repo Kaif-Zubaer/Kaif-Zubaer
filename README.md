@@ -2,6 +2,17 @@
 
 <p>Welcome to my page! </br> I'm a passionate web development learner and a future technology enthusiast from  <img src="https://cdn-icons-png.flaticon.com/512/7826/7826304.png" width="16"/> Dhaka, Bangladesh. I completed my Higher Secondary Certificate (HSC) in the Science Group in 2024. I’m currently building my skills in modern web technologies. </p>
 
+<h1>Future Goals</h1>
+
+- Pursue higher studies in **Blockchain** or **Cybersecurity** in China (Target: 2026)  
+- Contribute to **impactful open-source projects**
+
+<h1>What I’m Working On</h1>
+
+- Improving my **JavaScript**, **React**, and **Backend** skills  
+- Building **real-world projects** to strengthen my portfolio
+
+
 <h1>Skills Overview</h1>
 
 | **Category** | **Technologies / Tools** |
@@ -28,12 +39,3 @@
 - **Email**: [kaifhossainzubaer@gmail.com](mailto:kaifhossainzubaer@gmail.com)  
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/zubaer-hossain-kaif)  
 - **Facebook**: [Click Here](https://www.facebook.com/zubaerhossainkaif)
-
-
-
-
-
-
-
-
-
