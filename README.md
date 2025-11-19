@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Zubaer Hossain Kaif</h1>
+<h1>Hi There, I'm Zubaer Hossain Kaif <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 <p>Welcome to my page! </br> I'm a passionate web development learner and a future technology enthusiast from  <img src="https://cdn-icons-png.flaticon.com/512/7826/7826304.png" width="16"/> Dhaka, Bangladesh. I completed my Higher Secondary Certificate (HSC) in the Science Group in 2024. I’m currently building my skills in modern web technologies. </p>
 
